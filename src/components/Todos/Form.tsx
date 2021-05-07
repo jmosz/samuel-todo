@@ -18,7 +18,7 @@ const Form: React.FC<Props> = ({ todo, handleSubmit, handleChange }) => {
         name="text"
         id="text"
       />
-      <button type="submit">*************Agregar***************</button>
+      <button type="submit">Agregar</button>
     </form>
   )
 }
