@@ -7,7 +7,7 @@ interface Props {
 }
 
 const Todo: React.FC<Props> = ({ data, handleDone }) => (
-  <li>
+  <li style="background-color: red;">
     <input
       id={`todo-${data.id}`}
       type="checkbox"
