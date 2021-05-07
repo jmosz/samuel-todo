@@ -7,7 +7,6 @@ interface Props {
 }
 
 const Todo: React.FC<Props> = ({ data, handleDone }) => (
-  <h1>CAMBIO!!!!</h1>
   <li>
     <input
       id={`todo-${data.id}`}
