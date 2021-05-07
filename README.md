@@ -1,2 +1,2 @@
 # samuel-todo
-Todo list creado con samuel, con Dockerfile.
+Todo list creado por Samuel, con Dockerfile.
